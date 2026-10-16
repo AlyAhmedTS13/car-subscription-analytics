@@ -1,0 +1,16 @@
+car_id,model,segment,base_monthly_price
+1,Toyota Yaris,economy,2530.00
+2,Hyundai Accent,economy,2370.00
+3,Kia Pegas,economy,2570.00
+4,Nissan Sunny,economy,2490.00
+5,Toyota Corolla,economy,2210.00
+6,Hyundai Elantra,economy,2630.00
+7,Kia Cerato,economy,2530.00
+8,Hyundai Tucson,suv,4020.00
+9,Toyota RAV4,suv,3520.00
+10,Kia Sportage,suv,3760.00
+11,Nissan X-Trail,suv,3700.00
+12,Toyota Fortuner,suv,4120.00
+13,Lexus ES,luxury,6690.00
+14,Mercedes-Benz E-Class,luxury,6920.00
+15,BMW 5 Series,luxury,6430.00
